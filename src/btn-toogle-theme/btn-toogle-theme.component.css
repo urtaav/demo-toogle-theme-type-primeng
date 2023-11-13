@@ -1,0 +1,11 @@
+button.btn-toggle-theme {
+  transition: background-color 0.3s;
+  display: inline-flex;
+  align-items: center;
+  color: #191919;
+  padding: 0.5rem 1rem;
+  border: 1px solid #c7e0ff;
+  background-color: #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+}
